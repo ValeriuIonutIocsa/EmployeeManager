@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Daniel Craig",
+    "email": "daniel@getarrays.com",
+    "jobTitle": "JavaScript",
+    "phone": "4570090332",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png"
+  },
+  {
+    "name": "Christine Smith",
+    "email": "christine@getarrays.com",
+    "jobTitle": "UX/UI",
+    "phone": "4570090332",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png"
+  },
+  {
+    "name": "Dave Rogers",
+    "email": "dave@getarrays.com",
+    "jobTitle": "Java",
+    "phone": "4570090332",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png"
+  },
+  {
+    "name": "Andy Maxwell",
+    "email": "andy@getarrays.com",
+    "jobTitle": "SQL",
+    "phone": "4570090332",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png"
+  }
+]
