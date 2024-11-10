@@ -21,11 +21,11 @@ import tech.get_arrays.emp_man.model.service.EmployeeService;
 @Transactional
 @RequestMapping("/employee")
 @SuppressWarnings("unused")
-public class EmployeeResource {
+public class EmployeeController {
 
 	private final EmployeeService employeeService;
 
-	public EmployeeResource(
+	public EmployeeController(
 			final EmployeeService employeeService) {
 
 		this.employeeService = employeeService;
